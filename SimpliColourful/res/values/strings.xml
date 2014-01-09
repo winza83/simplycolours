@@ -2,12 +2,12 @@
 <resources>
 
     <string name="app_name">Simply Colours</string>
-    <string name="action_settings">Settings</string>
+    <string name="reset">Reset</string>
     <string name="hello_world">Hello world!</string>
 	<string name="dummytext">Lorem ipsum dolor sit amet, ex molestie sit mi aliquet, habitasse id sem est quis metus, pede qui sodales, at iaculis et mauris integer eu sodales. Ut sed proin non erat, nulla malesuada rhoncus mollis rhoncus facilis eu. Curabitur ac adipiscing vel. Eu diam per, suscipit facere odio erat sed quis vehicula, sit fames faucibus vestibulum quam in, dui mattis non, dignissim non lectus etiam eros morbi. Velit elementum urna sed non pellentesque magna, tortor sodales.</string>
 	<string name="btn_inv">Invert</string>
 	<string name="btn_refresh">Refresh</string>
 	<string name="r_fore">Foreground</string>
-	<string name="r_back">Background</string>
+	<string name="r_back">Background</string> 
 	
 </resources>
